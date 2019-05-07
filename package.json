@@ -28,7 +28,6 @@
     "markdown-it": "^8.1.0",
     "strip-indent": "^2.0.0",
     "fs-finder": "^1.8.1",
-
     "gulp": "*",
     "gulp-changed": "*",
     "gulp-concat": "*",
